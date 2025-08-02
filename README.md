@@ -22,7 +22,7 @@ The dashboard reveals several key patterns in my listening habits:
     * The vast majority of tracks were released between **2022 and 2024**, indicating a preference for recent hits over classics.
 
 * **Album Loyalty**: I tend to listen to albums, not just singles.
-    * The album with the most tracks is **`eternal sunshine`** by Ariana Grande (11 songs), followed by **`LOI CHOI: The Neo Pop Punk`** by Wren Evans (10 songs).
+    * The album with the most tracks is **eternal sunshine** by Ariana Grande (11 songs), followed by **LOI CHOI: The Neo Pop Punk** by Wren Evans (10 songs).
 
 * **Audio Feature Analysis (The "Mood")**:
     * **Energy & Danceability**: My music taste leans towards **high-energy** and **highly danceable** tracks. The scatter plot shows a positive correlation between loudness and danceability—louder songs tend to be more danceable.
