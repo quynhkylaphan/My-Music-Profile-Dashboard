@@ -7,7 +7,7 @@ The visualization was created using Tableau and is based on playlist data as of 
 ## 📊 Dashboard Preview
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/1c68f7fa-05c1-43b4-8b21-dd34ced8a7bb" />
 
-*A full, interactive version of the dashboard can be viewed on [Tableau Public]([https://public.tableau.com/app/profile/your-profile-here](https://public.tableau.com/app/profile/kyla.phan/viz/MySpotifyPlaylist_17537532881240/Dashboard)) 
+A full, interactive version of the dashboard can be viewed on [Tableau Public](https://public.tableau.com/app/profile/kyla.phan/viz/MySpotifyPlaylist_17537532881240/Dashboard)
 
 ---
 
