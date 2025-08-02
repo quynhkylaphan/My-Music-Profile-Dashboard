@@ -16,14 +16,13 @@ A full, interactive version of the dashboard can be viewed on [Tableau Public](h
 The dashboard reveals several key patterns in my listening habits:
 
 * **Top Artists & Genres**: My playlist is heavily dominated by **K-Pop** and **V-Pop**.
-    * **TREASURE** is the most-played artist with 26 tracks, followed closely by **Justin Bieber** (22), **Taylor Swift** (17), and **Ariana Grande** (17).
-    * K-Pop supergroups like **NCT 127** and **BLACKPINK** also feature prominently.
+    * **TREASURE** is the most-played artist with 29 tracks, followed closely by **Ariana Grande** (22) and **Justin Bieber** (13).
 
 * **Preference for Recent Music**: There's a strong bias towards modern music.
-    * The vast majority of tracks were released between **2021 and 2022**, indicating a preference for recent hits over classics.
+    * The vast majority of tracks were released between **2022 and 2024**, indicating a preference for recent hits over classics.
 
 * **Album Loyalty**: I tend to listen to albums, not just singles.
-    * The album with the most tracks is **`THE SECOND STEP: CHAPTER ONE`** by TREASURE (11 songs), followed by **`Purpose`** by Justin Bieber (10 songs).
+    * The album with the most tracks is **`eternal sunshine`** by Ariana Grande (11 songs), followed by **`LOI CHOI: The Neo Pop Punk`** by Wren Evans (10 songs).
 
 * **Audio Feature Analysis (The "Mood")**:
     * **Energy & Danceability**: My music taste leans towards **high-energy** and **highly danceable** tracks. The scatter plot shows a positive correlation between loudness and danceability—louder songs tend to be more danceable.
