@@ -43,6 +43,6 @@ The dashboard reveals several key patterns in my listening habits:
 
 You can explore this project in the following ways:
 
-1.  **View the Interactive Dashboard**: For the full, interactive experience, please visit the dashboard on [Tableau Public](https://public.tableau.com/app/profile/your-profile-here) (<- Add your link here!).
+1.  **View the Interactive Dashboard**: For the full, interactive experience, please visit the dashboard on [Tableau Public](https://public.tableau.com/app/profile/kyla.phan/viz/MySpotifyPlaylist_17537532881240/Dashboard).
 2.  **Explore the Data**: The raw `.csv` data is available in the `/data` directory for you to conduct your own analysis.
 3.  **Open the Workbook**: Download the `.twbx` file from the `/tableau` directory and open it with [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Reader](https://www.tableau.com/products/reader).
